@@ -1,0 +1,6 @@
+agent,n_task_types,mean_corr,median_corr,mean_abs_corr,total_prs
+Claude_Code,8,-0.155,-0.136,0.357,406
+Copilot,10,0.169,0.138,0.169,4772
+Cursor,11,-0.197,-0.211,0.197,1725
+Devin,11,-0.204,-0.208,0.204,7583
+OpenAI_Codex,11,0.009,-0.015,0.052,91399
